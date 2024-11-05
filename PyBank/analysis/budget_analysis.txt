@@ -1,0 +1,8 @@
+
+Financial Anaylysis 
+--------------------------
+Total Months = 86
+Total Revenue = $21475215.0
+Average Change  = $-8214.46511627907
+Greatest Increase in Profits  = $Aug-16 Amount $1862002.0
+Greatest Decrease in Profits  = $Feb-14 Amount $-1825558.0
